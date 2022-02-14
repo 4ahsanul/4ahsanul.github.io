@@ -1,0 +1,11 @@
+# Site navigation links
+
+- title: Article
+  url: /#/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever i like."
+  image: article.jpg
+
+- title: About
+  url: /about/
+  excerpt: "About me and this website"
+  image: about.jpg
