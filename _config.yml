@@ -36,9 +36,9 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname: Fimo
 
-
 include:
   - .htaccess
+
 exclude:
   - "*.less"
   - "*.sublime-project"
